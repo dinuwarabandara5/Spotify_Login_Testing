@@ -1,0 +1,32 @@
+# Bug Report - Spotify Login Testing
+
+## Bug ID: N/A  
+**Title:** No bugs found during manual testing  
+**Project:** Spotify Login Testing  
+**Reported by:** Dinuwara Muthumaldeniya  
+**Date:** 2025-06-01  
+**Severity:** N/A  
+**Priority:** N/A
+
+
+
+### Description  
+Manual testing of Spotify login functionality was performed according to test cases. All features worked  expected.
+
+### Steps to Reproduce  
+1. Open Spotify login page  
+2. Test login with valid username and password  
+3. Test login with valid username and invalid password  
+4. Test login with valid username and empty password  
+
+### Expected Result  
+Appropriate login success or error messages displayed according to input.
+
+### Actual Result  
+All expected results were met with no issues or bugs.
+
+### Screenshots / Videos  
+N/A
+
+### Additional Notes  
+No bugs or unexpected behaviors found in the login functionality during manual testing.
